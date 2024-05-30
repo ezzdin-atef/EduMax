@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduMax", "EduMax\EduMax.csproj", "{F7AFE8E6-B717-44E4-8AC6-824BDBF0B25D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduMax", "EduMax\EduMax.csproj", "{EF46EB9B-B969-4482-A77D-820DD3D50703}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F7AFE8E6-B717-44E4-8AC6-824BDBF0B25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7AFE8E6-B717-44E4-8AC6-824BDBF0B25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7AFE8E6-B717-44E4-8AC6-824BDBF0B25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7AFE8E6-B717-44E4-8AC6-824BDBF0B25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF46EB9B-B969-4482-A77D-820DD3D50703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF46EB9B-B969-4482-A77D-820DD3D50703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF46EB9B-B969-4482-A77D-820DD3D50703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF46EB9B-B969-4482-A77D-820DD3D50703}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {436BBB7A-5CCD-42C0-BD8A-6BD7369DA8E6}
+		SolutionGuid = {E2AF0369-AE51-4E2F-8C3D-04C045349995}
 	EndGlobalSection
 EndGlobal
